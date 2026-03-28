@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-03-28",
+  "downloadUrl": {
+    "gumroad": "https://gumroad.com/l/YOUR_PRODUCT_ID",
+    "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/buy/YOUR_PRODUCT_ID",
+    "arckaingel": "https://arckaingel.com/tools"
+  },
+  "releaseNotes": "Initial release — defect logging, Arckaingel AI integration, PDF and CSV export."
+}
