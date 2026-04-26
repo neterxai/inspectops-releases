@@ -1,28 +1,28 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "releaseDate": "2026-04-26",
   "downloadUrl": "https://arckaingel.gumroad.com/l/inspectops",
-  "releaseNotes": "Security hardening release — 15 InspectOps findings closed, long-poll relay, signed updates.",
+  "releaseNotes": "Display fix — version label and update prompt now derive from package.json. No functional changes from v1.1.0.",
   "downloads": {
     "macArm64": {
       "url": "https://arckaingel.gumroad.com/l/inspectops",
-      "sha256": "7b8a1e2e62ad3ee3a262b3b734d9e4459a261c7d3e164864d9e0ebe8b6820d69",
-      "size": 103840054
+      "sha256": "d8c2c895b521ac2df17893e5a47d3c7e0ba4364f39576af2ffdf88c38db32892",
+      "size": 103840335
     },
     "macX64": {
       "url": "https://arckaingel.gumroad.com/l/inspectops",
-      "sha256": "79f390aabc5e944790a8a9d6457e3d12c4886bd4b37b51de58066985fd205ffb",
-      "size": 109925380
+      "sha256": "e3a74db8cc927d24c5acc2eb32868c137ee9f8aa9880c5b60eb8ccc78541be4d",
+      "size": 109913261
     },
     "win64": {
       "url": "https://arckaingel.gumroad.com/l/inspectops",
-      "sha256": "b6593d94c3a4886d191592cbc217500b9841906a3e0cac4192de8c8657cdcca1",
-      "size": 86162815
+      "sha256": "20ccfb6d6b92f8d9551012455ddefa4a43af044a1655416abb2ba6d14264ac28",
+      "size": 86162869
     }
   },
   "alternateUrls": {
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "signature": "BeOTUTMOCTXYR97eW2xXrctVHZayYXTuNNS4pDwTD2Lap+MuLUeX9+oM3gVkGd/O1nkBkts8h0haEWbNaGE/5qFCDXHmc1CbcWBUSHVLaPGGHWgXVLgvBMQK19/x51K7PkvT5VNfq2b4mM6PT40hzXMTwXvWFwgqrIzYhtEzcKEbKIHYrTSS41Bv1qh/JuEpED0U11pj81quE1lexd02hjPz+9+iGfbSYawaQKv/gNyosNFlFfGdz+lRPFZN8XREHKturwgpDZKU18QtHbn5DgRa3CffZnHGbk1z6cEb1JWD/kV1LR6TrXSqpHQVn6qYRED4ALZEvSzCwGL5Hlg+MUy1e9LL6epq2062BJ6TttSoQ4nbRfwtUmL538t8bc8JuKD7iJqu3zf+Gglr5i4/NV8XEtenPFPPJe7+wqyJ1buw3zdULpMUcy+YSiTXVa95sZMJWCMnLVUFpmvinjnS7l8JIA5Gu49X+vD6DN3qwDrdNXaa56tp4hlPmv7O2bUvVRjZGHWEZ8Lg7IhzYqccy/f3DASzhnCiX8PFRifypE56Fd0dPsA1L2xq4iSMIvpQCcjYPWpNT3CU4J/bVHLRFBB16NIbZLQ2YuY2lQrrLti4h41dgQean4xeL1ljfYnt73rU+urXZn9M4rMADgW7CrCl3/EsijEbPvsch3Wsr9k="
+  "signature": "PxgWo3ml+FpW7I5FRyjjIfkRD0r/LwjUm6lXlx1E4735nlgDSaapuKiNU91hHzOeWcnV5HmJ/dYWhRC7W+02AT/OncqWRttbYeXgky1aPjygx/vzi5lKs2S3gu9P2I5/P7lctI9ywzzRu/+3LJxbOqLr437duj1WSuRHObtT/BNd7M3nljEOcqqZFk5RuTKn3CvAfmgnTYtRKjKpioN1jON5YyLjmYPCuOzPx/3TUutPGlgPQZj8YaJMltCR3SuTGUYsPpnPevXSDx12M2ApGnLImAzxzMMpBAlaV+NZp6XH0k6K683V0+fi7pMF83qF26+PssWMqVuPqGlSgUOICcwDHY4OsVilmSk06w64f30nNqYlZeFOKqs3ke1Uv4qTzwnamQ5d7ZW3K3/VKJzd5aO49XUjAU/X8ltYG6bbV/UJRlINPeNmnzpj2bb8iiTpAaY3cUYR03tvb9yqnpZmCa5vnFJRDqU8e7CO720gBUNDWHe3Oefl4INWWXVfopC835qBg46pPDhRKR9+OXfpFU+qz/5CEfeXO4zg7mrrUuhwqvXgbEztHbbNhoKc+sHmPdg/Ql8PWEB9C/jEZSSDtXNlVqpztY2KhTyQ5oSnZpte1NEDHUncrD38xIN5GEPh4RqG9NMOZ/7OSC9FAhTpNBGcBuyaRtw2+M40uIwZeYw="
 }
