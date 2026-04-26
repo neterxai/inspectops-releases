@@ -1,11 +1,28 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2026-04-05",
-  "downloadUrl": {
-    "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
+  "version": "1.1.0",
+  "releaseDate": "2026-04-26",
+  "downloadUrl": "https://arckaingel.gumroad.com/l/inspectops",
+  "releaseNotes": "Security hardening release — 15 InspectOps findings closed, long-poll relay, signed updates.",
+  "downloads": {
+    "macArm64": {
+      "url": "https://arckaingel.gumroad.com/l/inspectops",
+      "sha256": "7b8a1e2e62ad3ee3a262b3b734d9e4459a261c7d3e164864d9e0ebe8b6820d69",
+      "size": 103840054
+    },
+    "macX64": {
+      "url": "https://arckaingel.gumroad.com/l/inspectops",
+      "sha256": "79f390aabc5e944790a8a9d6457e3d12c4886bd4b37b51de58066985fd205ffb",
+      "size": 109925380
+    },
+    "win64": {
+      "url": "https://arckaingel.gumroad.com/l/inspectops",
+      "sha256": "b6593d94c3a4886d191592cbc217500b9841906a3e0cac4192de8c8657cdcca1",
+      "size": 86162815
+    }
+  },
+  "alternateUrls": {
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "releaseNotes": "Initial release — defect logging, Arckaingel AI integration, PDF and CSV export.",
-  "signature": "KxDX3dsUSAgbiKRKmVuo+B5GzhoODTCmYiQBbn0KLgMp+0a2bwr43FdMfTzPuTTLhM555CWIV/3RIbHhsblUs+gz7YgJmBvJTHuT/J3BhJVbExo2tCRmGuUk9GR45y3nPJQ/LIFr+WLSfiZXmnbdKvIeeO1gcQBbk3Y0MWbVrjaHaL5Jfv6ANrIjOvZwU276nx1PdLnsMVd5EEA+lSVE5Ol0/FIn01FdYWkoXwx/wglOGojRAKJbu4zJTUVMpSajyXsLPxCx81TIJoU2FHj9lhoeEyTkLQnEkQG1t2ETOdp4alNbu/IjriWOUN/gu2yGWBw/yrxdXVs/VHmGqEQaGz94oPBe0KuwAMH8tsROO0nlv05dwiI31o5m0gB0lS5EcKOGVWW23lWh5h3mUwMkbnqUPspuwaK/aTNg64u726n4T41Kfudw6js0ouhzbDQMjDy6FOjVLcrXPCeVSDq/4h6sFXFUWyVPNwKOv5dA1i2E9j29JvjS46KGr5rM/G+UTvNYlqEJdud2nGT+LtJ0uAFlkin4uASAbt0e3FYJpaWNcTaFUyyQXxGe6jPGc2ZbMhmrCM0UywrTOmusEzYFur4EW0OPPc5oUi6CRrWO1SOBVpX66kqn3ja7Vg78Ky7jhuJOB0So+jep89lo3XEGmtTE7xyTtWeYLa1fNNAl6lY="
+  "signature": "BeOTUTMOCTXYR97eW2xXrctVHZayYXTuNNS4pDwTD2Lap+MuLUeX9+oM3gVkGd/O1nkBkts8h0haEWbNaGE/5qFCDXHmc1CbcWBUSHVLaPGGHWgXVLgvBMQK19/x51K7PkvT5VNfq2b4mM6PT40hzXMTwXvWFwgqrIzYhtEzcKEbKIHYrTSS41Bv1qh/JuEpED0U11pj81quE1lexd02hjPz+9+iGfbSYawaQKv/gNyosNFlFfGdz+lRPFZN8XREHKturwgpDZKU18QtHbn5DgRa3CffZnHGbk1z6cEb1JWD/kV1LR6TrXSqpHQVn6qYRED4ALZEvSzCwGL5Hlg+MUy1e9LL6epq2062BJ6TttSoQ4nbRfwtUmL538t8bc8JuKD7iJqu3zf+Gglr5i4/NV8XEtenPFPPJe7+wqyJ1buw3zdULpMUcy+YSiTXVa95sZMJWCMnLVUFpmvinjnS7l8JIA5Gu49X+vD6DN3qwDrdNXaa56tp4hlPmv7O2bUvVRjZGHWEZ8Lg7IhzYqccy/f3DASzhnCiX8PFRifypE56Fd0dPsA1L2xq4iSMIvpQCcjYPWpNT3CU4J/bVHLRFBB16NIbZLQ2YuY2lQrrLti4h41dgQean4xeL1ljfYnt73rU+urXZn9M4rMADgW7CrCl3/EsijEbPvsch3Wsr9k="
 }
