@@ -1,28 +1,11 @@
 {
-  "version": "1.1.1",
-  "releaseDate": "2026-04-26",
-  "downloadUrl": "https://arckaingel.gumroad.com/l/inspectops",
-  "releaseNotes": "Display fix — version label and update prompt now derive from package.json. No functional changes from v1.1.0.",
-  "downloads": {
-    "macArm64": {
-      "url": "https://arckaingel.gumroad.com/l/inspectops",
-      "sha256": "d8c2c895b521ac2df17893e5a47d3c7e0ba4364f39576af2ffdf88c38db32892",
-      "size": 103840335
-    },
-    "macX64": {
-      "url": "https://arckaingel.gumroad.com/l/inspectops",
-      "sha256": "e3a74db8cc927d24c5acc2eb32868c137ee9f8aa9880c5b60eb8ccc78541be4d",
-      "size": 109913261
-    },
-    "win64": {
-      "url": "https://arckaingel.gumroad.com/l/inspectops",
-      "sha256": "20ccfb6d6b92f8d9551012455ddefa4a43af044a1655416abb2ba6d14264ac28",
-      "size": 86162869
-    }
-  },
-  "alternateUrls": {
+  "version": "1.1.2",
+  "releaseDate": "2026-05-10",
+  "downloadUrl": {
+    "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "signature": "PxgWo3ml+FpW7I5FRyjjIfkRD0r/LwjUm6lXlx1E4735nlgDSaapuKiNU91hHzOeWcnV5HmJ/dYWhRC7W+02AT/OncqWRttbYeXgky1aPjygx/vzi5lKs2S3gu9P2I5/P7lctI9ywzzRu/+3LJxbOqLr437duj1WSuRHObtT/BNd7M3nljEOcqqZFk5RuTKn3CvAfmgnTYtRKjKpioN1jON5YyLjmYPCuOzPx/3TUutPGlgPQZj8YaJMltCR3SuTGUYsPpnPevXSDx12M2ApGnLImAzxzMMpBAlaV+NZp6XH0k6K683V0+fi7pMF83qF26+PssWMqVuPqGlSgUOICcwDHY4OsVilmSk06w64f30nNqYlZeFOKqs3ke1Uv4qTzwnamQ5d7ZW3K3/VKJzd5aO49XUjAU/X8ltYG6bbV/UJRlINPeNmnzpj2bb8iiTpAaY3cUYR03tvb9yqnpZmCa5vnFJRDqU8e7CO720gBUNDWHe3Oefl4INWWXVfopC835qBg46pPDhRKR9+OXfpFU+qz/5CEfeXO4zg7mrrUuhwqvXgbEztHbbNhoKc+sHmPdg/Ql8PWEB9C/jEZSSDtXNlVqpztY2KhTyQ5oSnZpte1NEDHUncrD38xIN5GEPh4RqG9NMOZ/7OSC9FAhTpNBGcBuyaRtw2+M40uIwZeYw="
+  "releaseNotes": "Adds Solar Hotspot detection class for thermal drone inspections. Displays critical-severity 'Solar Hotspot' alerts with O&M dispatch guidance when paired with the Arckaingel solar-hotspot-v1 model. Internal cleanup of duplicate severity logic.",
+  "signature": "E6fbraoPv9oS+OA+fR7Kloifbiponok7WZs6krShb7UaAdNuse1iloxefzL5KUuH6pLQJk+ZkD7JEYb2II0RrujgVg6IpA5ff/LV4m7eM4dZNmYOvXPWfMrvccyKuYj7StJ+mpBbgWWdca+NTT8zKR0JCFHdf3usOX74JdFkgUhSrr0YFg205NiiTPN5hz9WK5q3IWecoyrpl7FLvY/xM/k+tSOKzhqsCB10riSz2kJt962u4ZV0RGf6MmBPxwmHHnO3Y4n6mi+n74CapZJv8jCFaFEsCjvchLbaWZb9yWHQ3bz2M1KNY/5eH+OeTnCIAYf3YTclRxMz0fMCIV31aXfWinqVEREHW86hmofqQoOmiGT1Aabj07i9N8/t+Uitw05LDa7Z8zXdxVKjsuPmM9iXq9Oap3Xn6yxfOSz+d+zapR57ixAsRewDa9WUE9bZ8zReTpf9Pp+6CHYdOXV/hofNRwHFrzOew1VuQ84ewho3zQ6lqLcoLYdqhI7qYd0cNCINNItTxuhXe98iMWUacbTltSUPJMQ6Lf8XPrWmifpz+9+eNMVpMM1Zy3PkHo+dK9NkR32D3JXsCex1lLKgaG6FPv+37JIE5NxPJH0+RXvyGPnOraBgCXxv6klv7mN2L/K7cKB5Vxx2N/HB3WtOUUf+tFr6NZGvCRV+67t+RAU="
 }
