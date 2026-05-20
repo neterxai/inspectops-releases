@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "releaseDate": "2026-05-14",
+  "version": "1.2.1",
+  "releaseDate": "2026-05-20",
   "downloadUrl": {
     "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "releaseNotes": "Adds Urban Surveillance model support — 10-class aerial detection covering pedestrians, crowds, vehicles, and small transport. Includes severity-aware operator actions for crowd monitoring, intrusion, traffic, and SAR workflows. Pairs with the Arckaingel urban-surveillance-v1 model.",
-  "signature": "M54fvcZFf4iyNFWxjsnYdwEM6lsSJU7Vs6WAb0bNOA6sM2jfJT/Ok/pRU8Ry0HDTZnnnxZgFDITU/rAp4mdBd1CgFz1H+hNI01Sy2GRjSRgf7SHC5rhfmbfUdnhfeABvR2XJXWO141PL7xamTbMaASqxsrO9HtE6IZv6tZudk65PCsPok5TKZwBx429rB381X/7s59wAOCz/nTl5/3iHIDC/xcRifF+/PDlvApdgGhjTBEwkm3BLzSKvHXz4rvaosW9d8XFtY2gWw7621ghq1+Uv/eZkvzE4l2gp1AxxIYQF6jmTP8m7bdJzdeo4gAzrECunqwxfO0c0TkcWJzyyEoP1EmTOl+oPaY3jeukMa4sig248z0skE1TCATmN7LNSof1lTEcNbP0EXTd5AxKJUHzqKtv4WFiqkHQj/CUcrYffdxQp+It8z9HeI+VDp0i4miiMWxapaq/z3L/LtsaCwC2E/fqGkXLRUDQtWpr2EFboDAWrDPO2zOKQhcz3/7TdMF7CSznILfVl1+hoPVcWlcpMQeYZOLnaXQhSBMM2DwOt5iWIr69qElarR8apmUlBpkkRPYJFg6CiGRHHQGvr1hG9ROeaMdGOmupfopmHi0ZczgYdMeqmp5dd71xrnWQl4VVRG02B0wDduUu3tdSmyZedWKBHqLml0vJ8rssDAw0="
+  "releaseNotes": "Fixes login flow for desktop authentication. No new model or feature changes.",
+  "signature": "H5P/cK1wuNca+KsQE1IkmNojBPM++HTmhfgRMqoAYwuZaWJPEV0y6OWHCCatr/K1Yvawynb776UocXNVrBgTFVS73kwMFm40vnZmbYTlVByytZXHINzrkj+mANFuoZdaIe13pacxBWa9MhvYtd4qDM3SGQ9BRYRDa0ThA8gY6H+ryZSiSNrT3i0ei/lhdbXNgtILN5Gk1C0SG1/XdFTU9aedSnd3zVUNNol+J/xE9Mepn5O33aFSVm6EK1Dd/n1nDEPw2QqBRWQqoC20b3wbpLkDOpBiBUBdLlFU9DEIcKWrsE17kCe4FU5XMT82prhWlEZFZHHX65YcgLPVi3kLYNFyDn6Vyo+Eyh4vIVrUSswKi7REUxzR5ZKqBx8Pi3pmnPJgFSbySSUyyvK3kN0ojtQUFmtV2cFOt7WyTEJGJ3RqT4afkdg7B0wSoF/TQY7ZB8X/kqfJeUggVfaVVh5Bjc7oZc4j4zalrXaurQT0PFUvMbxtCI1aKZjSOj8h9Qn3pyM5kXV09yeGGCyai5DNSWHm7Co1J1TLRK0nqJUEAVwXjpadGPrz/zKpaINTIGpoXyA6l8bZsMFnkhiV1xlGv3x1F7Tg4zowiwSZBs2NKZ+5twAmneoOPMDkePsDewypjPIY7Not1F6GoNMLnsQsq02NJ+B03a/VPgQ5m/PHRO8="
 }
