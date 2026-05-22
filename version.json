@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "releaseDate": "2026-05-20",
+  "version": "1.3.0",
+  "releaseDate": "2026-05-22",
   "downloadUrl": {
     "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "releaseNotes": "Fixes login flow for desktop authentication. No new model or feature changes.",
-  "signature": "H5P/cK1wuNca+KsQE1IkmNojBPM++HTmhfgRMqoAYwuZaWJPEV0y6OWHCCatr/K1Yvawynb776UocXNVrBgTFVS73kwMFm40vnZmbYTlVByytZXHINzrkj+mANFuoZdaIe13pacxBWa9MhvYtd4qDM3SGQ9BRYRDa0ThA8gY6H+ryZSiSNrT3i0ei/lhdbXNgtILN5Gk1C0SG1/XdFTU9aedSnd3zVUNNol+J/xE9Mepn5O33aFSVm6EK1Dd/n1nDEPw2QqBRWQqoC20b3wbpLkDOpBiBUBdLlFU9DEIcKWrsE17kCe4FU5XMT82prhWlEZFZHHX65YcgLPVi3kLYNFyDn6Vyo+Eyh4vIVrUSswKi7REUxzR5ZKqBx8Pi3pmnPJgFSbySSUyyvK3kN0ojtQUFmtV2cFOt7WyTEJGJ3RqT4afkdg7B0wSoF/TQY7ZB8X/kqfJeUggVfaVVh5Bjc7oZc4j4zalrXaurQT0PFUvMbxtCI1aKZjSOj8h9Qn3pyM5kXV09yeGGCyai5DNSWHm7Co1J1TLRK0nqJUEAVwXjpadGPrz/zKpaINTIGpoXyA6l8bZsMFnkhiV1xlGv3x1F7Tg4zowiwSZBs2NKZ+5twAmneoOPMDkePsDewypjPIY7Not1F6GoNMLnsQsq02NJ+B03a/VPgQ5m/PHRO8="
+  "releaseNotes": "Replaces the relay transport with a Durable Object hub and WebSocket push delivery. Detections now arrive in InspectOps within sub-second latency from the moment they are detected on the platform. Strongly-consistent storage, auto-reconnect with exponential backoff, 30-second heartbeat. Backward-compatible /poll endpoint retained as fallback.",
+  "signature": "NpvvuuUjkx6OMTammIrEKgNpmNKKBU5hbAgwogA/GO/2PzBrjKWbs3RcrA4/82APv7u250YL8+zjY4VfovLoLu+Nl7ZsuG5dCjG9dia5mt3XHNDI6c0V/C/pNWAaPyD9JY+Ly+nyKbmf7maQN3kdcY6fjSnkHuKfBVP7PBOQ02y+BOOKwj/8VpcBRM6raTFy+6yDvVS/wr7iz4zBw3307ThwOo6l8fOJ9FAR4JA78GI6sRrx5UoFFnKIesfxq3I1r1cDRGE4W3DeeKsEjZFPcZBHy4+Y36VkkK4BOluTNVDosHYCo9Ca0rrjtEL6d/0DPpONj06VLlekJQgBNMmvdy8mlXmNTM/3XK+3cGSwkvJXT2LdNaf5cPikK3VZgp9GPxe7Mz7hmliEL1qQw3A5oOPsNuCUvrk+imI6qtUj2Qjaf8XvG5E5dVk3FGKz74pY50nRhJ2jOcio0hqC/z3tVM6XkV4Lb38kJXClkbjJsF4vUc8x9t4U1I/M/Fd0RQwDwLYwaSRQj1nkIy2zY1qrACFWOOdXsp1nXO3CbcpA655LwhcEE0SnnjRkdD0WxYP9r7pvU45JMgFzbNJZW8TLlYTaAv76EIasL6432eZA5brsYCiMf9UYQxrzVQqjbCtdyrrabs74W9H2d98a3XcKWmyGNMpG9hrGdJztLvez4YM="
 }
