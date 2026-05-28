@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "releaseDate": "2026-05-28",
   "downloadUrl": {
     "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "releaseNotes": "Adds Construction PPE compliance support powered by the SH17 17-class model. InspectOps now displays granular PPE compliance signals (Hard Hat, Hi-Vis Vest, Gloves, Safety Boots, Safety Glasses, Face Mask, Face Guard) and surfaces operator actions for compliance evidence and hazardous-operation flags. Strengthens the construction site workflow ahead of trial deployments.",
-  "signature": "CQBGVPQH50HQ2dsvSOSJ0ZuQLt4JnG7Cs0toGNZED5EK68bgiKgesPWak3wXBgfpm30fS6hcmPluXp7uoonWFsg3q4qyfxXoHhufbHz9IW8a5Ea6YLEttrYWN3Pz+hd0/lzASAlP5LEKzly2ts0yzwp679brjKVU5RUwWQq0D+UfR+BjzUwxQYSXG2s4GEbUB6Sdlv/K5DxJOoeXrjhHj5XWuEHwIV/xqdk6abJpyBRkTCat6u9C2qWl5GxmtGCn2YMiFDONHncLI2atjOy/sVM1w1LzuDzXl8GLHMtsRgVptASQ3wk3sQFggPIJBdw7Ud5HRashyN8Ei0Ajh05+DuyYYdsa+IIpN22tAfSCu7Tqqcg8UnG5jU7QCPZD6lRY6HM78QCWzQTi3lsNf/h2P4RVOpTE1F52gLFBfTKL9InUJ7+5IB2S1P4zf7YZGRsEmHGvshM9TwTt8zOCyBZNOhJuYnZHhmkcibh+/8fpPDOtgi4EGLyL8/32QUuQFMQmrR1SvL5oMPp01kMlfaA2pl8cRDOqLAPW3QnbNcyE9I+ndGouAHVsiS+xFd3TtIK/wx7IjcTLpL9Z1PMyBIYsDkKjX/VbOVTENqSMtlmnsMFJrGjox8wSi3jPRRTlr9wj0aCfx/mfUQ/gucdhKJjk7BtVtYZITD+1wQdDqIqW8KU="
+  "releaseNotes": "Hotfix for the v1.3.1 auto-update download link. The Download button in the update prompt now correctly resolves to arckaingel.com/tools. Recommended for all v1.3.0 and v1.3.1 installs.",
+  "signature": "CmewzSX3ChkjBhdgj9b++EuzmQIeeZUD5sT5ftip58d9LXLrptN60OWX3mwJmqVN5nXh5dCcs9xU/XnKSTDZeRKyUcEHkVYXLs8dG7KhiP2Vy4kY6EUYhckVf5d6y7x8H2CHsf6vwUL4fIpgPs743enRDa9w+wX2cT6llHNGjszljez63BP1IereK8/DzLV2xG+TA1aLZ86W3xNw8oNMUV+XDN/Je5fSuRTUBBCl63HOJzHQRE8V38kSrkVb89uCkd5YDfvKMNIHGmb1HgtSXfc3MgUZPLX4dzMi/EUs6EJj6XY92TSU3Vajo2+7oEVYc4TFFtVkvTbUwvpYJVS6o7kLcCQg/CFR5JfVYt0c9sCghOvsQ6/9wBWkZ/PnHedGpNZFBSlnHEz9XSKh6s787wFZh1/d6fo0qXVvV95TJHnvE9PbabRyAwcQKzTAh63ct9mBQ8vAN72jYxwv5oV0Tdbd7xNaf+JFN9AZLVFyLCFgzG02QwOI28dC/+U5TfzytEmSN0sisvhAKM4p78sjxpiyriJ4zYjR1PJ4EbtGtiTpW/rBD6ufhO4NULbqi45eybzdrGJUZFhUJX619Hlr9u3FUxK7LfeRsFVVrQqAIGGuXp83TSXQxDVh+WpCXmD/hGIUeiM9Hr2csNJ7fx7pl1r3ZhdRFmrfCyIwchyO3Yg="
 }
