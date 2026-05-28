@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "releaseDate": "2026-05-22",
+  "version": "1.3.1",
+  "releaseDate": "2026-05-28",
   "downloadUrl": {
     "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
     "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
     "arckaingel": "https://arckaingel.com/tools"
   },
-  "releaseNotes": "Replaces the relay transport with a Durable Object hub and WebSocket push delivery. Detections now arrive in InspectOps within sub-second latency from the moment they are detected on the platform. Strongly-consistent storage, auto-reconnect with exponential backoff, 30-second heartbeat. Backward-compatible /poll endpoint retained as fallback.",
-  "signature": "NpvvuuUjkx6OMTammIrEKgNpmNKKBU5hbAgwogA/GO/2PzBrjKWbs3RcrA4/82APv7u250YL8+zjY4VfovLoLu+Nl7ZsuG5dCjG9dia5mt3XHNDI6c0V/C/pNWAaPyD9JY+Ly+nyKbmf7maQN3kdcY6fjSnkHuKfBVP7PBOQ02y+BOOKwj/8VpcBRM6raTFy+6yDvVS/wr7iz4zBw3307ThwOo6l8fOJ9FAR4JA78GI6sRrx5UoFFnKIesfxq3I1r1cDRGE4W3DeeKsEjZFPcZBHy4+Y36VkkK4BOluTNVDosHYCo9Ca0rrjtEL6d/0DPpONj06VLlekJQgBNMmvdy8mlXmNTM/3XK+3cGSwkvJXT2LdNaf5cPikK3VZgp9GPxe7Mz7hmliEL1qQw3A5oOPsNuCUvrk+imI6qtUj2Qjaf8XvG5E5dVk3FGKz74pY50nRhJ2jOcio0hqC/z3tVM6XkV4Lb38kJXClkbjJsF4vUc8x9t4U1I/M/Fd0RQwDwLYwaSRQj1nkIy2zY1qrACFWOOdXsp1nXO3CbcpA655LwhcEE0SnnjRkdD0WxYP9r7pvU45JMgFzbNJZW8TLlYTaAv76EIasL6432eZA5brsYCiMf9UYQxrzVQqjbCtdyrrabs74W9H2d98a3XcKWmyGNMpG9hrGdJztLvez4YM="
+  "releaseNotes": "Adds Construction PPE compliance support powered by the SH17 17-class model. InspectOps now displays granular PPE compliance signals (Hard Hat, Hi-Vis Vest, Gloves, Safety Boots, Safety Glasses, Face Mask, Face Guard) and surfaces operator actions for compliance evidence and hazardous-operation flags. Strengthens the construction site workflow ahead of trial deployments.",
+  "signature": "CQBGVPQH50HQ2dsvSOSJ0ZuQLt4JnG7Cs0toGNZED5EK68bgiKgesPWak3wXBgfpm30fS6hcmPluXp7uoonWFsg3q4qyfxXoHhufbHz9IW8a5Ea6YLEttrYWN3Pz+hd0/lzASAlP5LEKzly2ts0yzwp679brjKVU5RUwWQq0D+UfR+BjzUwxQYSXG2s4GEbUB6Sdlv/K5DxJOoeXrjhHj5XWuEHwIV/xqdk6abJpyBRkTCat6u9C2qWl5GxmtGCn2YMiFDONHncLI2atjOy/sVM1w1LzuDzXl8GLHMtsRgVptASQ3wk3sQFggPIJBdw7Ud5HRashyN8Ei0Ajh05+DuyYYdsa+IIpN22tAfSCu7Tqqcg8UnG5jU7QCPZD6lRY6HM78QCWzQTi3lsNf/h2P4RVOpTE1F52gLFBfTKL9InUJ7+5IB2S1P4zf7YZGRsEmHGvshM9TwTt8zOCyBZNOhJuYnZHhmkcibh+/8fpPDOtgi4EGLyL8/32QUuQFMQmrR1SvL5oMPp01kMlfaA2pl8cRDOqLAPW3QnbNcyE9I+ndGouAHVsiS+xFd3TtIK/wx7IjcTLpL9Z1PMyBIYsDkKjX/VbOVTENqSMtlmnsMFJrGjox8wSi3jPRRTlr9wj0aCfx/mfUQ/gucdhKJjk7BtVtYZITD+1wQdDqIqW8KU="
 }
