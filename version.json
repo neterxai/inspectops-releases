@@ -1,11 +1,7 @@
 {
   "version": "1.3.2",
   "releaseDate": "2026-05-28",
-  "downloadUrl": {
-    "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
-    "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
-    "arckaingel": "https://arckaingel.com/tools"
-  },
-  "releaseNotes": "Hotfix for the v1.3.1 auto-update download link. The Download button in the update prompt now correctly resolves to arckaingel.com/tools. Recommended for all v1.3.0 and v1.3.1 installs.",
-  "signature": "CmewzSX3ChkjBhdgj9b++EuzmQIeeZUD5sT5ftip58d9LXLrptN60OWX3mwJmqVN5nXh5dCcs9xU/XnKSTDZeRKyUcEHkVYXLs8dG7KhiP2Vy4kY6EUYhckVf5d6y7x8H2CHsf6vwUL4fIpgPs743enRDa9w+wX2cT6llHNGjszljez63BP1IereK8/DzLV2xG+TA1aLZ86W3xNw8oNMUV+XDN/Je5fSuRTUBBCl63HOJzHQRE8V38kSrkVb89uCkd5YDfvKMNIHGmb1HgtSXfc3MgUZPLX4dzMi/EUs6EJj6XY92TSU3Vajo2+7oEVYc4TFFtVkvTbUwvpYJVS6o7kLcCQg/CFR5JfVYt0c9sCghOvsQ6/9wBWkZ/PnHedGpNZFBSlnHEz9XSKh6s787wFZh1/d6fo0qXVvV95TJHnvE9PbabRyAwcQKzTAh63ct9mBQ8vAN72jYxwv5oV0Tdbd7xNaf+JFN9AZLVFyLCFgzG02QwOI28dC/+U5TfzytEmSN0sisvhAKM4p78sjxpiyriJ4zYjR1PJ4EbtGtiTpW/rBD6ufhO4NULbqi45eybzdrGJUZFhUJX619Hlr9u3FUxK7LfeRsFVVrQqAIGGuXp83TSXQxDVh+WpCXmD/hGIUeiM9Hr2csNJ7fx7pl1r3ZhdRFmrfCyIwchyO3Yg="
+  "downloadUrl": "https://arckaingel.com/tools",
+  "releaseNotes": "Adds Construction PPE compliance support powered by the SH17 17-class model. Detects Hard Hat, Hi-Vis Vest, Gloves, Safety Boots, Safety Glasses, Face Mask, Face Guard and surfaces compliance evidence actions.",
+  "signature": "WVyHrLNZuy+kxNAJHc3vt5PgcQU5CTuOeAuFq5ZLwAJlFtY3uYLQIEuj1kLELOh8VxIXko1793h8ahGi5Sc0KerLeHNk/tnTm3IUl3UZ7v5rcgsSGwFKamFwQap5fGABIA2AtdCLXzop+Ot/695rYsvgGuTuCU4kSVOkDqd+8gePq9XZ6MFrKG5w6fBS4CLk1bZHqCuper11U6pcLTGOYPle4wNE+MT1NFg/7SM84/rYSxLf/XGZ99fqcU4U1YEleE2PlwdfGotZBQAU6JZDHa8sBkAT5SnJz5EAl2VK50O6DboJV15h8NcGOPPyrvjvVEjDoQGDs+IeIAw+tyC4rIBHse6NfE4+jPOAgmzle4K50xa/6Zv3nXzCeehxjPUEHP6QnFEdWfyWk/LTG+prdvTZNlc37GW+Dbyz5Z1yOeYS4RSSl2u8tmQgzI3Bxk8ogRe39KvIKToAUo+lXitjA1BJIYWavz+VPZFng3i1SBpfqQOhKCsgOirG+EXZ7LoTmRR9u9og7KaL8HSSeF3NqOrTvaC3BfqS9V0uOi5z+Www+XGLNssJwgLzPEhsdtslgxt5X4+KYMPstJqibHbzrOlYUV45RsnLMSHemvqlq/kXL5bVWt4JcArIELpYIVHerFLoci2p6R6uVlPKAwG6d/qiGLLZ9l7e3iIF7INiJF8="
 }
