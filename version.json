@@ -1,7 +1,11 @@
 {
-  "version": "1.3.2",
-  "releaseDate": "2026-05-28",
-  "downloadUrl": "https://arckaingel.com/tools",
-  "releaseNotes": "Adds Construction PPE compliance support powered by the SH17 17-class model. Detects Hard Hat, Hi-Vis Vest, Gloves, Safety Boots, Safety Glasses, Face Mask, Face Guard and surfaces compliance evidence actions.",
-  "signature": "WVyHrLNZuy+kxNAJHc3vt5PgcQU5CTuOeAuFq5ZLwAJlFtY3uYLQIEuj1kLELOh8VxIXko1793h8ahGi5Sc0KerLeHNk/tnTm3IUl3UZ7v5rcgsSGwFKamFwQap5fGABIA2AtdCLXzop+Ot/695rYsvgGuTuCU4kSVOkDqd+8gePq9XZ6MFrKG5w6fBS4CLk1bZHqCuper11U6pcLTGOYPle4wNE+MT1NFg/7SM84/rYSxLf/XGZ99fqcU4U1YEleE2PlwdfGotZBQAU6JZDHa8sBkAT5SnJz5EAl2VK50O6DboJV15h8NcGOPPyrvjvVEjDoQGDs+IeIAw+tyC4rIBHse6NfE4+jPOAgmzle4K50xa/6Zv3nXzCeehxjPUEHP6QnFEdWfyWk/LTG+prdvTZNlc37GW+Dbyz5Z1yOeYS4RSSl2u8tmQgzI3Bxk8ogRe39KvIKToAUo+lXitjA1BJIYWavz+VPZFng3i1SBpfqQOhKCsgOirG+EXZ7LoTmRR9u9og7KaL8HSSeF3NqOrTvaC3BfqS9V0uOi5z+Www+XGLNssJwgLzPEhsdtslgxt5X4+KYMPstJqibHbzrOlYUV45RsnLMSHemvqlq/kXL5bVWt4JcArIELpYIVHerFLoci2p6R6uVlPKAwG6d/qiGLLZ9l7e3iIF7INiJF8="
+  "version": "1.3.3",
+  "releaseDate": "2026-06-03",
+  "downloadUrl": {
+    "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
+    "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
+    "arckaingel": "https://arckaingel.com/tools"
+  },
+  "releaseNotes": "Adds SAR Multi-Class support — InspectOps now displays aerial person, vehicle, and animal detections from the SAR model with search-and-rescue severity actions. Person detections flag as critical for ground-team dispatch.",
+  "signature": "D848PX9dFIS+Cjfn+MbM7fY0F338LQBdhXkt+6FhtwRYFxo6/PBq5vDJrn85Teci2i50IsKRdLNw4kcF5yg8RfLKfEfaz4i8A02LSy8EK+149b015DiWhqFpcdF6NLUuBv/EyjS+uGe9xeKUkzLe1wl0f/zFUgdm9Rsj1e0+XXNvr8aA+Bs3KvAr+od/umDLe9kApuqXbRUIFT1aE9H+QPXuBSloPoGXRKKYiICVlF9sdQs410tV7A7luAzPIqWo+6410LVYtUSoWtPXU5mgkMiRypyTO/cVbY1T6pm2/Krz6gs7nJDs6Dzrz/McRQ+Ytm47k9n1ytur4MTeThf1DJZH4uqwLm4hj3Wa4CTNWwJloaTykPn8QhKt7ZN1zaYiZACrmLKNa49W6hwmSaipbm0RrDVccyd7I4KLgzStfs2EBHn6N3i3ZhR21c5dD/ldNWoGSwups/ra38BdlMEvOxITMjF+5whxt3PJNMOa9AGKLdqUjcaT2LU435Xqa9kYKkOPOrDcLHuBwI8+y+ZNYt0JaHW2H7nOGyxliVBgMA9sDinps8EKV+CyLf2m7S43PKGJyxbeTNifmBHs9S577DvuOI339VapX6Wo0Skx8nCnnB5EHZKf70ELRI6lDkCwJ0JVSAit+pQUrkwvM1gbeuqPcUjkLPaAZ/IYwj/WYX8="
 }
