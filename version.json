@@ -1,11 +1,7 @@
 {
   "version": "1.3.3",
   "releaseDate": "2026-06-03",
-  "downloadUrl": {
-    "gumroad": "https://arckaingel.gumroad.com/l/inspectops",
-    "lemonsqueezy": "https://arckaingel.lemonsqueezy.com/checkout/buy/5ff15a7b-314e-4946-bccc-b579d6ba43f3",
-    "arckaingel": "https://arckaingel.com/tools"
-  },
-  "releaseNotes": "Adds SAR Multi-Class support — InspectOps now displays aerial person, vehicle, and animal detections from the SAR model with search-and-rescue severity actions. Person detections flag as critical for ground-team dispatch.",
-  "signature": "D848PX9dFIS+Cjfn+MbM7fY0F338LQBdhXkt+6FhtwRYFxo6/PBq5vDJrn85Teci2i50IsKRdLNw4kcF5yg8RfLKfEfaz4i8A02LSy8EK+149b015DiWhqFpcdF6NLUuBv/EyjS+uGe9xeKUkzLe1wl0f/zFUgdm9Rsj1e0+XXNvr8aA+Bs3KvAr+od/umDLe9kApuqXbRUIFT1aE9H+QPXuBSloPoGXRKKYiICVlF9sdQs410tV7A7luAzPIqWo+6410LVYtUSoWtPXU5mgkMiRypyTO/cVbY1T6pm2/Krz6gs7nJDs6Dzrz/McRQ+Ytm47k9n1ytur4MTeThf1DJZH4uqwLm4hj3Wa4CTNWwJloaTykPn8QhKt7ZN1zaYiZACrmLKNa49W6hwmSaipbm0RrDVccyd7I4KLgzStfs2EBHn6N3i3ZhR21c5dD/ldNWoGSwups/ra38BdlMEvOxITMjF+5whxt3PJNMOa9AGKLdqUjcaT2LU435Xqa9kYKkOPOrDcLHuBwI8+y+ZNYt0JaHW2H7nOGyxliVBgMA9sDinps8EKV+CyLf2m7S43PKGJyxbeTNifmBHs9S577DvuOI339VapX6Wo0Skx8nCnnB5EHZKf70ELRI6lDkCwJ0JVSAit+pQUrkwvM1gbeuqPcUjkLPaAZ/IYwj/WYX8="
+  "downloadUrl": "https://arckaingel.com/tools",
+  "releaseNotes": "Adds SAR Multi-Class support — InspectOps now displays aerial person, vehicle, and animal detections with search-and-rescue severity actions. Person detections flag as critical for ground-team dispatch.",
+  "signature": "QlRcHAcKBoOk5LLEY2vFILOY5+4sTPzVVIE1nTqg+/I6+0QULkgDOwjsNQKwGqyIdlOvjEI2GKKDTu9eE1vN8/qKZhFEW4qkV5ayojCh0U2s1I8kKlJrIAxB6E0uw+SZ+H80LaqU9qVMoiD6S+nY9GSMZUfO/pKNK8UxmVxKAdkSneJaflVc4LE61rnmY7b7UNffWRIwxjXOisYatAK9CIqIE2y41LyJo3ArvFGTwSXZth/JJYLzz3N5EkUKArwU5HJcIkDIc9Rq38yt401Un1Qk2p1S9ncO+81/hX0qFpmHySwgADe1RHQ+dvXgsg07E3T7BQLNQnZmm0md+bfJje3FjpGLJchKmZ1Fk/YLziNYXqbKtqDApz65yV3wMy23MKvdBJu743kA06JRuRaSZUFEHsNAQPhMm7mqthgmS9EJ5nugAkrSg3CJAeLdurl2aRWqHhkoEtzIEM1y/QvudUbypepNozPh6RVV6wMBsDOaMP3Nwo/w6BJT2DjDhlatv93ELwuoqSPp11IV+4k9ZorNqDMui+HrnZuyXZe0ehGE0TVAYsgnRcLUhG53rT9KW6HH+yZBMyTQo8P+TdAXTvItAKdI/3cu6EprVuomnQMwasrPJCB0kCsfO1/pm7COBi+zjEw0fBGWw9GZCWFJ7pZBpe8gub0tXKbN/xHyD4o="
 }
