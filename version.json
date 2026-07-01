@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "releaseDate": "2026-06-03",
+  "version": "1.4.0",
+  "releaseDate": "2026-07-01",
   "downloadUrl": "https://arckaingel.com/tools",
-  "releaseNotes": "Adds SAR Multi-Class support — InspectOps now displays aerial person, vehicle, and animal detections with search-and-rescue severity actions. Person detections flag as critical for ground-team dispatch.",
-  "signature": "QlRcHAcKBoOk5LLEY2vFILOY5+4sTPzVVIE1nTqg+/I6+0QULkgDOwjsNQKwGqyIdlOvjEI2GKKDTu9eE1vN8/qKZhFEW4qkV5ayojCh0U2s1I8kKlJrIAxB6E0uw+SZ+H80LaqU9qVMoiD6S+nY9GSMZUfO/pKNK8UxmVxKAdkSneJaflVc4LE61rnmY7b7UNffWRIwxjXOisYatAK9CIqIE2y41LyJo3ArvFGTwSXZth/JJYLzz3N5EkUKArwU5HJcIkDIc9Rq38yt401Un1Qk2p1S9ncO+81/hX0qFpmHySwgADe1RHQ+dvXgsg07E3T7BQLNQnZmm0md+bfJje3FjpGLJchKmZ1Fk/YLziNYXqbKtqDApz65yV3wMy23MKvdBJu743kA06JRuRaSZUFEHsNAQPhMm7mqthgmS9EJ5nugAkrSg3CJAeLdurl2aRWqHhkoEtzIEM1y/QvudUbypepNozPh6RVV6wMBsDOaMP3Nwo/w6BJT2DjDhlatv93ELwuoqSPp11IV+4k9ZorNqDMui+HrnZuyXZe0ehGE0TVAYsgnRcLUhG53rT9KW6HH+yZBMyTQo8P+TdAXTvItAKdI/3cu6EprVuomnQMwasrPJCB0kCsfO1/pm7COBi+zjEw0fBGWw9GZCWFJ7pZBpe8gub0tXKbN/xHyD4o="
+  "releaseNotes": "Uriel Vision Engine — live on-device AI surveillance built into InspectOps. The bundled engine runs person/vehicle/animal and inspection models directly in the app with no cloud round-trip. macOS Apple Silicon.",
+  "signature": "PXy3+oUJow9EjesBHBQD0zW0TnKPv7Mkg6LCzRAGBrL1OyCrRYmgMqqG1ZK+By4N5KOdgz+PSMdEbPreZTZOSP9UfYdTvNMnUa8nxy56NkpfMEjeEfvdf1WWoCOpngF5Cyt/NzReTXF4r0XaNiE45w3pS0AEhRmeHLb1WvuJWBCfFrjKK4sz8+PCUbrElTEgvzqOVR9TDqcYjeP9HsuJG1UtOIOlHTb5FK2TnmKWVGO19sOjKBJnibvhe/7HLGU9vFRmFQndQSs/XetguutIc4r2nnisL3mvR2W7ltWt6pMZodS73vge8CiaFCCAD7LY42lUwO9zAQBZZXAcGyLiWQGaFbDGyfGzj7l0fupheS+dPReSdSjR6jiis2lX2dWhSl2IyadZQBsuL58Jvh/k45GHNfplK/WWCWcyJiQ9OXo5QNdbjlvUM2dNEqTmldG/FcepzjyZ4JA6u59gZa5O8xbw0c6RutTs5T1742fxVGsKB6vhGQ4Np/HLEedPsd4OYQ0LPX+BvjYnaipukOxkYr61eY6V8GUI8N7ERykMuUfTMMIiveKvCIKBwgc9vRMKj/CRjQ70IwTXdsAwdYBkxH1GfJ3EVMQFwxIfOaCb0lG9JAD2HVFE/Qwl9e0fOkurIYBNQNstqVuArWqI+Q2Atf2Fpmz7FvOPlDBBy501lm4="
 }
