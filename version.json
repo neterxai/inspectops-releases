@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "releaseDate": "2026-07-01",
+  "version": "1.4.1",
+  "releaseDate": "2026-08-08",
   "downloadUrl": "https://arckaingel.com/tools",
-  "releaseNotes": "Uriel Vision Engine — live on-device AI surveillance built into InspectOps. The bundled engine runs person/vehicle/animal and inspection models directly in the app with no cloud round-trip. macOS Apple Silicon.",
-  "signature": "PXy3+oUJow9EjesBHBQD0zW0TnKPv7Mkg6LCzRAGBrL1OyCrRYmgMqqG1ZK+By4N5KOdgz+PSMdEbPreZTZOSP9UfYdTvNMnUa8nxy56NkpfMEjeEfvdf1WWoCOpngF5Cyt/NzReTXF4r0XaNiE45w3pS0AEhRmeHLb1WvuJWBCfFrjKK4sz8+PCUbrElTEgvzqOVR9TDqcYjeP9HsuJG1UtOIOlHTb5FK2TnmKWVGO19sOjKBJnibvhe/7HLGU9vFRmFQndQSs/XetguutIc4r2nnisL3mvR2W7ltWt6pMZodS73vge8CiaFCCAD7LY42lUwO9zAQBZZXAcGyLiWQGaFbDGyfGzj7l0fupheS+dPReSdSjR6jiis2lX2dWhSl2IyadZQBsuL58Jvh/k45GHNfplK/WWCWcyJiQ9OXo5QNdbjlvUM2dNEqTmldG/FcepzjyZ4JA6u59gZa5O8xbw0c6RutTs5T1742fxVGsKB6vhGQ4Np/HLEedPsd4OYQ0LPX+BvjYnaipukOxkYr61eY6V8GUI8N7ERykMuUfTMMIiveKvCIKBwgc9vRMKj/CRjQ70IwTXdsAwdYBkxH1GfJ3EVMQFwxIfOaCb0lG9JAD2HVFE/Qwl9e0fOkurIYBNQNstqVuArWqI+Q2Atf2Fpmz7FvOPlDBBy501lm4="
+  "releaseNotes": "Action Required guidance now resolves from the session's active model rather than the detection label — relay detections no longer inherit the local model's action text. Uriel Engine loads segmentation models with the correct task, fixing a crash on fire-smoke-seg.",
+  "signature": "C/G6IBFeylHSfBTd5p6oqWJHMYsUTpNYMuuzGIrgtLUmjJnmt8jHb9Zz5EOXjStSyFFF8vB0/zZ8LbZBzxsFwXgCpNeQG1E8UQng5DmjrHU0wLbwkQN/s4+AhSeFze33Gcu1/k1dism6VxSyzwgF5QdUng5meCLKRBYhvL9RlPslvcvJ/HDcmtN3yvPxjsmTprguQPe1osgJiUfDIytV5p12z/VJRv8urt5rS0OiscrsPzYItBbuMeb3PFvT+63l7i/rt9p0cmeZRKeRrveJsGHje/g1o8ygUU1q37KNmwOYqTN+8s8ThFbaJHVgkhU6IyjwDHg9Qn90a1wE17HX+UFEuaY0xFqo1GPRvq/1F5LwqiYbNnEY3l9LWYWr4THs8EFuJc14Bg9gg2/ZTdikmKGjWeFKa93IZGVEIIrI1bvaytNBRzEX4GHL2f1pKu6gRkMPsLWZApLBmnQuMtoS9b/8BjKB1oOfhwXQ/36tUlKEpLus2xhQYPvhadQvj6+2ts+SQp+xKo5Rv2z1KmEqqsKtSxBtX2kQNjBa06Xmy+BO0WnJ0MCueg+qYv7BXBNJOukAHO0Ha3ZyM98g1hrfJBMTC3MBrJINufONXPGE9BKUcPtFDzhIIcV2GCjDOs0YtWhYpMDO5molDAGnWCNnIJoPyD0EqrxF6K5rJGBrnDE="
 }
